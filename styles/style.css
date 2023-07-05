@@ -130,9 +130,16 @@ font-size: 3rem;
 footer{
     background-color: #E4631F;
     margin-top: 100px;
-    height: 500px;
+    height: 400px;
     width: auto;
+    padding-top: 30px;
 
+}
+
+footer,h1{
+    text-align: center;
+    color: white;
+    font-weight: 900;
 }
 
 
